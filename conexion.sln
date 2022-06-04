@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "conexion", "conexion\conexion.csproj", "{678060C0-74C9-4D66-98D9-84DA4CA5BC25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPEXAMEN", "WPEXAMEN\WPEXAMEN.csproj", "{47F360D3-8B8E-412E-83B9-0BA46A8DD8BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{678060C0-74C9-4D66-98D9-84DA4CA5BC25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{678060C0-74C9-4D66-98D9-84DA4CA5BC25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{678060C0-74C9-4D66-98D9-84DA4CA5BC25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{678060C0-74C9-4D66-98D9-84DA4CA5BC25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47F360D3-8B8E-412E-83B9-0BA46A8DD8BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47F360D3-8B8E-412E-83B9-0BA46A8DD8BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47F360D3-8B8E-412E-83B9-0BA46A8DD8BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47F360D3-8B8E-412E-83B9-0BA46A8DD8BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {14196670-4A9A-47D5-924D-8AE7FD077402}
+	EndGlobalSection
+EndGlobal
